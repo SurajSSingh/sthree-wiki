@@ -6,7 +6,6 @@ seeds
 pods/service-connections
 dependencies/localhost/private
 dependencies/localhost/protected
-dependencies/localhost/public
 
 # Created by https://www.toptal.com/developers/gitignore/api/windows,macos,linux,obsidian,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,linux,obsidian,visualstudiocode
