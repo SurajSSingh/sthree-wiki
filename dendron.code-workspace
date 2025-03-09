@@ -12,6 +12,9 @@
             "path": "dependencies/localhost/public",
             "name": "public-notes"
         },
+        {
+            "path": "../personal"
+        }
     ],
     "settings": {
         "dendron.rootDir": ".",
