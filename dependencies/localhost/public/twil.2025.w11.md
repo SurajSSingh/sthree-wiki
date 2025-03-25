@@ -1,8 +1,8 @@
 ---
 id: 8c1sllzhb60tq51gzicy30m
 title: TWILx0001
-desc: 'This week I learned for ISO week 10 of 2025'
-updated: 1742194436755
+desc: 'This week I learned for ISO week 11 of 2025'
+updated: 1742798502568
 created: 1742193975913
 ---
 
