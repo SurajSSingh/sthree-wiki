@@ -2,10 +2,10 @@
 id: gar8k4tfe1f8ta6rw76h7ds
 title: SILT#00012
 desc: 'Something I learned today for 2025, March 17'
-updated: 1742272637216
+updated: 1743057093112
 created: 1742271379899
 bluesky: https://bsky.app/profile/aproblemsquared.bsky.social/post/3lkkouuer2c22
-mastadon: https://mastodon.social/@surajssingh/114181577250463139
+mastodon: https://mastodon.social/@surajssingh/114181577250463139
 ---
 
 SILT#00012: Some date can be known as Internation Prime Dates (this has nothing to do with Amazon's Prime Days). This means that a (Gregorian calendar) date is prime when written in MMDDYY (American), DDMMYY (European), and YYYYMMDD (ISO) formats. Next date is: 2027-03-23

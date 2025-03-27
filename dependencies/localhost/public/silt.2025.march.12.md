@@ -2,10 +2,10 @@
 id: 95uf1jh0d1jlrsip9qs59hf
 title: SILT#00008
 desc: 'Something I learned today for 2025, March 12'
-updated: 1741846534873
+updated: 1743057093110
 created: 1741845950209
 bluesky: https://bsky.app/profile/surajssingh.bsky.social/post/3lkagxtvawk2p
-mastadon: https://mastodon.social/@surajssingh/114153649414633285
+mastodon: https://mastodon.social/@surajssingh/114153649414633285
 ---
 
 
