@@ -2,9 +2,9 @@
 id: knevre2p58xwvlhvmz0pwu1
 title: SILT#00073
 desc: 'Something I learned today for 2025, June 20'
-updated: 1750566778578
+updated: 1750747258608
 created: 1750486076290
-bluesky: 
+bluesky: https://bsky.app/profile/surajssingh.com/post/3ls3vpomdfc2s
 ---
 
 SILT#00073: If you are asked to choose a prime number between 200 and 210, save your energy because there are no primes in that range. In fact, the primes 199 and 211 bookend these ranges. There are others like this (a round range with a gap at least 10), but I wonder the first that has a gap of 100
